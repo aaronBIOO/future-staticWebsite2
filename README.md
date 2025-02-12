@@ -4,8 +4,8 @@
 Future is a simple website that I created to practice my HTML and CSS skills. Future is the brand identity of the  the website.
 
 ## Technologies used
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 
 ## Features
 - Basic and static page
